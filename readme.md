@@ -22,4 +22,4 @@
 结果在[Release](../../releases)下载
 
 如果将rom上传至WeTransfer下载 清修改yml的 upload_wetransfer: 'false' -> 'true'
-上传好后的下载链接，留意输出结果 Download Link:
+上传好后的下载链接，留意输出结果 Download Link
