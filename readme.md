@@ -5,7 +5,7 @@
 ## 使用方法:
 ```
 1. fork此仓库
-2. 编辑SGSI_Build.yml:
+2. 编辑sgsi.json:
      rom_url: 为你的下载连接 
      rom_name: 为你下载的包名 
      pack_sgsi: 为你需要打包的包名（压缩为7z）
@@ -17,9 +17,9 @@
 ```
  
 ## 输出结果
-如果将rom上传至Release下载 请修改yml的 upload_release: 'false' -> 'true' 
+如果将rom上传至Release下载 请修改sgsi.json的 upload_release: 'false' -> 'true' 
 每次构建成功后山除掉 自动上传的的版本否则下次将会上传失败
 结果在[Release](../../releases)下载
 
-如果将rom上传至WeTransfer下载 清修改yml的 upload_wetransfer: 'false' -> 'true'
+如果将rom上传至WeTransfer下载 清修改sgsi.json的 upload_wetransfer: 'false' -> 'true'
 上传好后的下载链接，留意输出结果 Download Link
