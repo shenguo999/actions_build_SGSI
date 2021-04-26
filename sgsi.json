@@ -8,5 +8,5 @@
   "bug_fix": true,
   "version": "11",
   "upload_transfer": true,
-  "upload_release": true
+  "upload_release": false
 }
