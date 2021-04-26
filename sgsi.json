@@ -1,5 +1,5 @@
 {
-  "rom_url": "https://firmware.meizu.com/Firmware/Flyme/m2191/9.0.1.0/cn/20210310200723/8645f200/update.zip",
+  "rom_url": "https://ip1029618493.out.azhimalayanvh.com/Firmware/Flyme/16th/9.21.4.24/cn_daily/20210424183733/9c0cb420/update.zip?ali_redirect_domain=download.meizu.com&ali_redirect_ex_ftag=ba57c4c34b52257d0b5624bed68a63daa8ea9f5945ad92de&ali_redirect_ex_tmining_ts=1619440117&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.7z",
   "make_type": "AB",
@@ -8,5 +8,5 @@
   "bug_fix": true,
   "version": "11",
   "upload_transfer": true,
-  "upload_release": false
+  "upload_release": true
 }
