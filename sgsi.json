@@ -1,12 +1,12 @@
 {
-  "rom_url": "https://ip1029618493.out.azhimalayanvh.com/Firmware/Flyme/16th/9.21.4.24/cn_daily/20210424183733/9c0cb420/update.zip?ali_redirect_domain=download.meizu.com&ali_redirect_ex_ftag=ba57c4c34b52257d0b5624bed68a63daa8ea9f5945ad92de&ali_redirect_ex_tmining_ts=1619440117&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100",
+  "rom_url": "https://ip2455267274.out.azhimalayanvh.com/Firmware/Flyme/16/9.21.4.24/cn_daily/20210424183918/577ba02a/update.zip?ali_redirect_domain=download.meizu.com&ali_redirect_ex_ftag=d6e4c2a0f924dad783b79ccadaa2049fed47b14ad4942d98&ali_redirect_ex_tmining_ts=1619476662&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.7z",
   "make_type": "AB",
   "rom_type": "flyme",
   "light_fix": true,
   "bug_fix": true,
-  "version": "11",
+  "version": "10",
   "upload_transfer": true,
   "upload_release": true
 }
